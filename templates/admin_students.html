@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block title %}Students — Admin{% endblock %}
+
+{% block content %}
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h1>Students</h1>
+    <a class="btn btn-success" href="/admin/students/add">Add student</a>
+  </div>
+
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <thead>
+        <tr><th>ID</th><th>Student Number</th><th>Name</th><th>Actions</th></tr>
+      </thead>
+      <tbody>
+      {% for s in students %}
+      <tr>
+        <td>{{ s.id }}</td>
+        <td>{{ s.student_number }}</td>
+        <td>{{ s.name }}</td>
+        <td>
+          <a class="btn btn-sm btn-outline-primary" href="/admin/students/{{ s.id }}">View</a>
+          <a class="btn btn-sm btn-outline-secondary" href="/admin/generate/{{ s.id }}">Generate Exam Card</a>
+        </td>
+      </tr>
+      {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}

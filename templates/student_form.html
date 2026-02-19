@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Add Student</title>
+  </head>
+  <body>
+    <h1>Add Student</h1>
+    <form method="post">
+      {{ form.hidden_tag() }}
+      <div class="mb-3">
+        {{ form.student_number.label(class_='form-label') }}
+        {{ form.student_number(class_='form-control') }}
+      </div>
+      <div class="mb-3">
+        {{ form.name.label(class_='form-label') }}
+        {{ form.name(class_='form-control') }}
+      </div>
+      <div class="mb-3">
+        {{ form.username.label(class_='form-label') }}
+        {{ form.username(class_='form-control') }}
+      </div>
+      <div class="mb-3">
+        {{ form.password.label(class_='form-label') }}
+        {{ form.password(class_='form-control') }}
+      </div>
+      {{ form.submit(class_='btn btn-primary') }}
+    </form>
+  </body>
+</html>

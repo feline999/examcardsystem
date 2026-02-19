@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Student Detail</title>
+  </head>
+  <body>
+    <h1>Student: {{ student.name }} ({{ student.student_number }})</h1>
+    <p><a href="/admin/students">Back to list</a></p>
+
+    <h2>Fees</h2>
+    <ul>
+      {% for f in student.fees %}
+        <li>Amount: {{ f.amount_due }} - Paid: {{ 'Yes' if f.paid else 'No' }}</li>
+      {% else %}
+        <li>No fees recorded</li>
+      {% endfor %}
+    </ul>
+    <form method="post" action="/admin/students/{{ student.id }}/add_fee" class="mb-3">
+      {{ fee_form.hidden_tag() }}
+      <div class="row g-2 align-items-end">
+        <div class="col-auto">
+          {{ fee_form.amount(class_='form-control', placeholder='Amount') }}
+        </div>
+        <div class="col-auto form-check">
+          {{ fee_form.paid(class_='form-check-input') }} {{ fee_form.paid.label(class_='form-check-label') }}
+        </div>
+        <div class="col-auto">
+          {{ fee_form.submit(class_='btn btn-sm btn-primary') }}
+        </div>
+      </div>
+    </form>
+
+    <h2>Unit Registrations</h2>
+    <ul>
+      {% for r in student.registrations %}
+        <li>{{ r.unit_code }} - Registered: {{ 'Yes' if r.registered else 'No' }}</li>
+      {% else %}
+        <li>No registrations</li>
+      {% endfor %}
+    </ul>
+    <form method="post" action="/admin/students/{{ student.id }}/add_registration" class="mb-3">
+      {{ reg_form.hidden_tag() }}
+      <div class="row g-2 align-items-end">
+        <div class="col-auto">
+          {{ reg_form.unit_code(class_='form-control', placeholder='Unit code') }}
+        </div>
+        <div class="col-auto form-check">
+          {{ reg_form.registered(class_='form-check-input') }} {{ reg_form.registered.label(class_='form-check-label') }}
+        </div>
+        <div class="col-auto">
+          {{ reg_form.submit(class_='btn btn-sm btn-primary') }}
+        </div>
+      </div>
+    </form>
+
+    <h2>Attendance</h2>
+    <ul>
+      {% for a in student.attendances %}
+        <li>{{ a.unit_code }} - {{ a.percent }}%</li>
+      {% else %}
+        <li>No attendance records</li>
+      {% endfor %}
+    </ul>
+    <form method="post" action="/admin/students/{{ student.id }}/add_attendance" class="mb-3">
+      {{ att_form.hidden_tag() }}
+      <div class="row g-2 align-items-end">
+        <div class="col-auto">
+          {{ att_form.unit_code(class_='form-control', placeholder='Unit code') }}
+        </div>
+        <div class="col-auto">
+          {{ att_form.percent(class_='form-control', placeholder='Percent') }}
+        </div>
+        <div class="col-auto">
+          {{ att_form.submit(class_='btn btn-sm btn-primary') }}
+        </div>
+      </div>
+    </form>
+
+    <p><a href="/admin/generate/{{ student.id }}">Generate Exam Card</a></p>
+  </body>
+</html>

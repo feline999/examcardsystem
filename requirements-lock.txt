@@ -1,0 +1,15 @@
+# requirements-lock.txt (template)
+# This file should contain exact pinned package versions produced by running:
+#   .\tools\pin_requirements.ps1
+# Replace the lines below after generating a real lock file.
+Flask>=2.0
+Flask-Login>=0.6
+Flask-SQLAlchemy>=3.0
+reportlab>=4.0
+python-dotenv>=1.0
+pytest>=7.0
+Flask-WTF>=1.0
+Flask-Talisman>=1.0
+Flask-Limiter>=2.0
+sentry-sdk>=1.0
+python-json-logger>=2.0
