@@ -24,4 +24,19 @@
       </div>
     </div>
   </div>
+  <div class="password-field">
+    <input type="password" id="password" name="password" required>
+    <button type="button" onclick="togglePassword()">👁️ Show</button>
+</div>
+
+<script>
+function togglePassword() {
+    var password = document.getElementById("password");
+    if (password.type === "password") {
+        password.type = "text";
+    } else {
+        password.type = "password";
+    }
+}
+</script>
 {% endblock %}

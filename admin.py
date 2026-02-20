@@ -4,7 +4,7 @@ import os
 from werkzeug.utils import secure_filename
 from uuid import uuid4
 from pdf_generator import generate_exam_card
-from models import Student, ExamCard, User, Fee, UnitRegistration, Attendance
+from models import Student, ExamCard, User, FeePayment, StudentUnit, Attendance, Unit
 from extensions import db
 from validation import can_generate_exam_card
 from forms import StudentForm, FeeForm, RegistrationForm, AttendanceForm

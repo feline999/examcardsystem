@@ -1,0 +1,195 @@
+{"asctime": "2026-02-19 20:22:21,984", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"asctime": "2026-02-19 20:22:21,986", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"asctime": "2026-02-19 20:22:21,990", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:22:23,977", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:22:23,984", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 20:24:11,656", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:24:11] \"\u001b[35m\u001b[1mGET / HTTP/1.1\u001b[0m\" 500 -"}
+{"asctime": "2026-02-19 20:24:12,074", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:24:12] \"GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:24:12,081", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:24:12] \"GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:24:12,241", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:24:12] \"GET /?__debugger__=yes&cmd=resource&f=console.png&s=SAA70Hpq3hCc0n5zmMQO HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:24:12,286", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:24:12] \"GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:30:25,183", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\app.py', reloading"}
+{"asctime": "2026-02-19 20:30:27,972", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:30:36,804", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:30:36,829", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 20:43:40,295", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"asctime": "2026-02-19 20:43:40,296", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"asctime": "2026-02-19 20:43:40,302", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:43:43,701", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:43:43,709", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 20:45:47,270", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:45:47] \"\u001b[35m\u001b[1mGET / HTTP/1.1\u001b[0m\" 500 -"}
+{"asctime": "2026-02-19 20:45:47,678", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:45:47] \"\u001b[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1\u001b[0m\" 304 -"}
+{"asctime": "2026-02-19 20:45:47,753", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:45:47] \"\u001b[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1\u001b[0m\" 304 -"}
+{"asctime": "2026-02-19 20:45:47,995", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:45:47] \"GET /?__debugger__=yes&cmd=resource&f=console.png&s=kAf8F2BiYlhwBts2eVT3 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:48:21,168", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\app.py', reloading"}
+{"asctime": "2026-02-19 20:48:21,615", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\app.py', reloading"}
+{"asctime": "2026-02-19 20:48:21,889", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:48:22,069", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:48:27,387", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:48:27,409", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 20:48:28,231", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:48:28,377", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 20:50:43,730", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"asctime": "2026-02-19 20:50:43,731", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"asctime": "2026-02-19 20:50:43,742", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 20:50:49,250", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 20:50:49,263", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 20:51:23,987", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:23] \"\u001b[32mGET / HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 20:51:24,062", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:24] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:51:24,772", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:24] \"\u001b[33mGET /favicon.ico HTTP/1.1\u001b[0m\" 404 -"}
+{"asctime": "2026-02-19 20:51:46,234", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:46] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:51:49,344", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:49] \"\u001b[32mGET / HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 20:51:49,362", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:51:49] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:57:29,884", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:57:29] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:57:46,393", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:57:46] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 20:58:04,929", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 20:58:04] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:01:47,574", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:01:47] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:01:56,659", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:01:56] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:03:08,866", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:03:08] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:03:16,518", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:03:16] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:03:31,247", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:03:31] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:03:48,559", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:03:48] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:06:53,098", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:06:53] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:07:01,336", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:07:01] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:11:28,103", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:11:28] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:11:41,060", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:11:41] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:16:25,026", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[31m\u001b[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.\u001b[0m\n * Running on http://127.0.0.1:5000"}
+{"asctime": "2026-02-19 21:16:25,028", "levelname": "INFO", "name": "werkzeug", "message": "\u001b[33mPress CTRL+C to quit\u001b[0m"}
+{"asctime": "2026-02-19 21:16:25,035", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:16:27,746", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:16:27,758", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 21:19:10,387", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:10,797", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:10,805", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:10,840", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:11,161", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:14,935", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:15,039", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:15,335", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:22,829", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:22,887", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 21:19:23,452", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:23,416", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:23,465", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 21:19:23,474", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 21:19:23,696", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:23,748", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 21:19:23,870", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:23,897", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:24,383", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:24,390", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:24,534", "levelname": "INFO", "name": "werkzeug", "message": " * Detected change in 'C:\\\\Users\\\\dreamville\\\\OneDrive\\\\Desktop\\\\examcardsystem\\\\temp.py', reloading"}
+{"asctime": "2026-02-19 21:19:24,973", "levelname": "INFO", "name": "werkzeug", "message": " * Restarting with stat"}
+{"asctime": "2026-02-19 21:19:29,390", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:29,464", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 21:19:30,183", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:30,202", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 442-880-528"}
+{"asctime": "2026-02-19 21:19:30,588", "levelname": "WARNING", "name": "werkzeug", "message": " * Debugger is active!"}
+{"asctime": "2026-02-19 21:19:30,594", "levelname": "INFO", "name": "werkzeug", "message": " * Debugger PIN: 286-374-731"}
+{"asctime": "2026-02-19 21:22:20,283", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:22:20] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:22:31,742", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:22:31] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:22:31,765", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:22:31] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:24:20,377", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:24:20] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:24:22,634", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:24:22] \"GET /admin/students/add HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:25:02,272", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:02] \"\u001b[32mPOST /admin/students/add HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:25:02,292", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:02] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:25:06,019", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:06] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:25:32,479", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:32] \"\u001b[32mPOST /admin/students/1/add_registration HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:25:32,503", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:32] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:25:42,147", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:42] \"\u001b[32mPOST /admin/students/1/add_registration HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:25:42,170", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:25:42] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:26:12,516", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:12] \"\u001b[32mPOST /admin/students/1/add_fee HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:26:12,553", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:12] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:26:35,550", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:35] \"\u001b[32mPOST /admin/students/1/add_attendance HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:26:35,582", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:35] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:26:39,131", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:39] \"\u001b[32mGET /admin/generate/1 HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:26:39,445", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:39] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:26:49,785", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:49] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:26:53,247", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:26:53] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:00,374", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:00] \"\u001b[32mGET / HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:00,452", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:00] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:02,567", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:02] \"\u001b[32mGET / HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:02,661", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:02] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:08,113", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:08] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:08,231", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:08] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:32,698", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:32] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:32,718", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:32] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:38,572", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:38] \"\u001b[32mGET /student/exam_card HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:38,596", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:38] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:42,272", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:42] \"\u001b[32mGET /student/exam_card HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:42,289", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:42] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:45,891", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:45] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:48,343", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:48] \"\u001b[32mGET / HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:48,383", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:48] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:49,571", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:49] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:27:55,973", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:55] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:27:55,990", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:27:55] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:28:10,342", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:28:10] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:28:10,378", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:28:10] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:28:12,022", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:28:12] \"\u001b[32mGET /student/exam_card HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:28:12,073", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:28:12] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:29:34,698", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:29:34] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:29:34,723", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:29:34] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:31:22,285", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:22] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:31:22,297", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:22] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:31:26,929", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:26] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:31:44,879", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:44] \"\u001b[32mGET /admin/generate/1 HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:31:44,898", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:44] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:31:50,659", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:31:50] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:32:05,417", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:32:05] \"\u001b[32mPOST /admin/students/1/add_attendance HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:32:05,439", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:32:05] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:32:48,634", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:32:48] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:32:50,633", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:32:50] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:32:50,651", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:32:50] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:33:14,106", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:33:14] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:33:14,120", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:33:14] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:33:19,990", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:33:19] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:33:27,667", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:33:27] \"GET /admin/students/add HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:33:36,632", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:33:36] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:34:12,907", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:12] \"\u001b[32mGET /admin/generate/1 HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:34:12,929", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:12] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:34:23,961", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:23] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:34:23,980", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:23] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:34:43,125", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:43] \"POST /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:34:52,213", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:52] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:34:52,226", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:52] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 21:34:59,008", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:59] \"\u001b[32mGET /student/exam_card HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 21:34:59,028", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 21:34:59] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:19:17,444", "levelname": "INFO", "name": "flask_wtf.csrf", "message": "The CSRF token has expired."}
+{"asctime": "2026-02-19 22:19:17,467", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:17] \"\u001b[31m\u001b[1mPOST /login HTTP/1.1\u001b[0m\" 400 -"}
+{"asctime": "2026-02-19 22:19:22,150", "levelname": "INFO", "name": "flask_wtf.csrf", "message": "The CSRF token has expired."}
+{"asctime": "2026-02-19 22:19:22,154", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:22] \"\u001b[31m\u001b[1mPOST /login HTTP/1.1\u001b[0m\" 400 -"}
+{"asctime": "2026-02-19 22:19:24,258", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:24] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:19:33,111", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:33] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:19:33,123", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:33] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:19:34,749", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:34] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:19:43,706", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:19:43] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:06,790", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:06] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:16,245", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:16] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:21:16,261", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:16] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:20,644", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:20] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:21,921", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:21] \"GET /admin/students/add HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:50,576", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:50] \"\u001b[32mPOST /admin/students/add HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:21:50,592", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:50] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:21:53,618", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:21:53] \"GET /admin/students/2 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:22:01,095", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:01] \"\u001b[32mPOST /admin/students/2/add_fee HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:22:01,121", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:01] \"GET /admin/students/2 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:22:07,769", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:07] \"\u001b[32mPOST /admin/students/2/add_registration HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:22:07,797", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:07] \"GET /admin/students/2 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:22:15,124", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:15] \"\u001b[32mPOST /admin/students/2/add_attendance HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:22:15,149", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:15] \"GET /admin/students/2 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:22:17,893", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:22:17] \"GET /admin/generate/2 HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:23:31,427", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:31] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:23:33,223", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:33] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:23:33,242", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:33] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:23:46,125", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:46] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 22:23:46,141", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:46] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:23:47,869", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:23:47] \"GET /student/exam_card HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 22:24:15,335", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 22:24:15] \"GET /student HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 23:31:49,235", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:31:49] \"GET /student/exam_card HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 23:47:04,085", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:04] \"\u001b[32mGET /logout HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 23:47:04,118", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:04] \"GET /login HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 23:47:13,913", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:13] \"\u001b[32mPOST /login HTTP/1.1\u001b[0m\" 302 -"}
+{"asctime": "2026-02-19 23:47:13,934", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:13] \"GET /admin/ HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 23:47:15,389", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:15] \"GET /admin/students HTTP/1.1\" 200 -"}
+{"asctime": "2026-02-19 23:47:18,804", "levelname": "INFO", "name": "werkzeug", "message": "127.0.0.1 - - [19/Feb/2026 23:47:18] \"GET /admin/students/1 HTTP/1.1\" 200 -"}
